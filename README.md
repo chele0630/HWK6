@@ -1,4 +1,5 @@
-#Temperature Near Equator
+# Temperature Near Equator
+
 In reviewing the data, the hottest temperatures are slightly below the equator.  It shows that a significant number of other cities have high temperatures around the equator and that the temperatures steadily decrease as you move north from the equator.  
 There is no significant correlation between city temperatures and humidity.
 There is no significant correlation between city temperatures and cloudiness.
